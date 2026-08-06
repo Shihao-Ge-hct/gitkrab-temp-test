@@ -2,6 +2,6 @@ def greet(name):
       return f"Hello, {name}!"
 
 
-value = 30
+value = 50
 name = input("Please enter your name: ")
 print(greet(name))
