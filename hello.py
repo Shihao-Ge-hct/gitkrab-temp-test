@@ -6,5 +6,5 @@ value = 80
 name = input("Please enter your name: ")
 print(greet(name))
   
-banana = "banana"
+fruit = "apple"
 #UI rebase source
