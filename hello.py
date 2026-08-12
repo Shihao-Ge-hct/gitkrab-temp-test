@@ -7,4 +7,5 @@ name = input("Please enter your name: ")
 print(greet(name))
   
 fruit = "apple"
+color = "red"
 #UI rebase source
